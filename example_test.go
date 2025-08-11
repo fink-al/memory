@@ -3,7 +3,7 @@ package memory_test
 import (
 	"fmt"
 
-	"github.com/pbnjay/memory"
+	"github.com/fink-al/memory"
 )
 
 func ExampleTotalMemory() {
